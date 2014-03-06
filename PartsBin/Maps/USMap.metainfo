@@ -1,0 +1,1 @@
+{"id":0,"registry":{"0":{"partName":"USMap","requiredModules":[],"migrationLevel":2,"partsSpaceName":"PartsBin/","__SourceModuleName__":"Global.lively.PartsBin","comment":"The US map and its states. Every single state is a morph.","__LivelyClassName__":"lively.PartsBin.PartsBinMetaInfo"},"isSimplifiedRegistry":true}}

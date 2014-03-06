@@ -1,0 +1,1 @@
+{"id":0,"registry":{"0":{"partName":"TextEditor1","requiredModules":[],"migrationLevel":4,"partsSpaceName":"PartsBin/Tools/","__SourceModuleName__":"Global.lively.PartsBin","comment":"A simple and plain text editor. Enter the URL of the file you want to view or edit. CMD+s saves the file.","__LivelyClassName__":"lively.PartsBin.PartsBinMetaInfo"},"isSimplifiedRegistry":true}}

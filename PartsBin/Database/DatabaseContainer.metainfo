@@ -1,0 +1,1 @@
+{"id":0,"registry":{"0":{"partsSpaceName":"PartsBin/Database/","__SourceModuleName__":"Global.lively.PartsBin","comment":"DB container. Can save attributes from objects in the world to a database.","migrationLevel":2,"requiredModules":["apps.CouchDB"],"partName":"DatabaseContainer","__LivelyClassName__":"lively.PartsBin.PartsBinMetaInfo"},"isSimplifiedRegistry":true}}

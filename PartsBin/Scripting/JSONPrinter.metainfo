@@ -1,0 +1,1 @@
+{"id":0,"registry":{"0":{"partsSpaceName":"PartsBin/Basic/","__SourceModuleName__":"Global.lively.PartsBin","migrationLevel":2,"comment":"print an object as JSON","partName":"JSONPrinter","__LivelyClassName__":"lively.PartsBin.PartsBinMetaInfo"},"isSimplifiedRegistry":true}}

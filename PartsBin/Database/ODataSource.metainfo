@@ -1,0 +1,1 @@
+{"id":0,"registry":{"0":{"partsSpaceName":"PartsBin/Database/","__SourceModuleName__":"Global.lively.PartsBin","comment":"An OData source. You can query an OData source with this component.","migrationLevel":2,"requiredModules":["apps.OData"],"partName":"ODataSource","__LivelyClassName__":"lively.PartsBin.PartsBinMetaInfo"},"isSimplifiedRegistry":true}}

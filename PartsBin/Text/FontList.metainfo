@@ -1,0 +1,1 @@
+{"id":0,"registry":{"0":{"partsSpaceName":"PartsBin/Text support/","__SourceModuleName__":"Global.lively.PartsBin","migrationLevel":2,"comment":"Finds out what fonts are supported in your browser and let's you choose one.","partName":"FontList","__LivelyClassName__":"lively.PartsBin.PartsBinMetaInfo"},"isSimplifiedRegistry":true}}

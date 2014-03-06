@@ -1,0 +1,3 @@
+[submodule "users/timfelgentreff"]
+	path = users/timfelgentreff
+	url = git://github.com/timfel/babelsberg-js
